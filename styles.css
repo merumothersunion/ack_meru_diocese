@@ -1,0 +1,177 @@
+		#header-container{
+			width: 100%;
+			height: 250px;
+
+		}
+		#topbar{
+			width:100%;
+			height:100px;
+		}
+		#union-image{
+			position: relative;
+			top:20px;
+			left:40px;
+			height:100px;
+		}
+		#faith{
+			float:right;
+			margin-right:70px;
+		}
+		#search{
+			width:150px;
+			height:43px;
+			margin-top: 20px;
+			border: none;
+			background-color: #ccc;
+			margin-right: 0px;
+			border-radius:1px red;
+			color:#e53087;
+		}
+		#what{
+			position: relative;
+			top:10px;
+			left:20px;
+			font-size:20px;
+			font-weight: bold;
+			float: left;
+			margin-right: 45px;
+			text-decoration: none;
+		}
+		#what a{
+			text-decoration: none;
+		}
+		#what1{
+			position: relative;
+			top:10px;
+			left:20px;
+			font-size:20px;
+			font-weight: bold;
+			float: left;
+			margin-right: 45px;
+			text-decoration:none; 
+					}
+		#what a:hover{
+			text-decoration: none;
+			border-color: red;
+			border-bottom:4px red solid;
+
+		}
+
+		#topbarnext{
+			width:100%;
+			height:100px;
+		}
+		#join{
+			background-color:rgb(193, 208, 0); 
+			font-family:Helvetica, Arial, sans-serif;
+			width:150px;
+			height:43px;
+			float:left;
+			padding: 10px 10px;
+			font-size:25px;
+			font-weight: bold;
+			margin-left: 190px;
+		}
+		#join a{
+			text-decoration: none;
+
+		}
+	#donate{
+			background-color:rgb(193, 208, 0); 
+			font-family:Helvetica, Arial, sans-serif;
+			width:150px;
+			height:43px;
+			float:left;
+			padding: 10px 10px;
+			font-size:25px;
+			font-weight: bold;
+			margin-left:20px;
+			margin-right: 0px;
+		}
+		#donate a{
+			text-decoration: none;
+		}
+		#logo{
+			color:rgb(193, 208, 0);
+			position:relative;
+			left:30px;
+			font-size:25px;
+		}
+		#mother-img{
+			height:50px;
+			width:100%;
+
+		}
+
+		#mother-img p{
+			width:200px;
+			height:100px;
+
+			position:relative;
+			top:-400px;
+			left:500px;
+			font-size:25px;
+			word-spacing: 5px;
+			color:white;
+			font-weight: bold;
+			z-index: 2;
+
+		}
+	 #panel1,#panel2,#panel3{
+			width:1300px;
+			height:200px;
+			background-color:black;
+			float:left;
+			margin:20px 24px;
+			position:relative;
+			top:-150px;
+			opacity:0.7;
+			display: none;
+			border-radius: 8px;
+
+		}
+		#first{
+			color:white;
+			font-size:25px;
+			float:left;
+			margin: 20px 25px;
+
+		}
+		.logo2{
+			float:left;
+			position:relative;
+			left:400px;
+			top:40px;
+			opacity:1;
+		}
+		#second{
+			color:white;
+			font-size:25px;
+			float:left;
+			margin: 20px 25px;
+		}
+		#what3{
+			position: relative;
+			top:10px;
+			left:20px;
+			font-size:20px;
+			font-weight: bold;
+			float: left;
+			margin-right: 45px;
+			text-decoration:none; 
+					}
+					#submit{
+						border-radius:1px red;
+						color:blue;
+						float:right;
+						position: relative;
+						top:20px;
+						margin-left: 0px;
+						height: 43px;
+					}
+					#faithlett{
+						font-weight: bold;
+						font-size:20px;
+						float:left;
+						margin-top: 24px;
+					}
